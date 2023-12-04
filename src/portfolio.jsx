@@ -2,8 +2,8 @@ import aboutpic from "./components/Access/mePhoto.jpeg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://github.com/PraveenVishvakarma/Portfolio',
-  title: 'GitHub',
+  homepage: 'https://praveenvishvakarma.vercel.app/',
+  title: 'JS',
 }
 
 const about = {
